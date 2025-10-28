@@ -1,4 +1,4 @@
-# Codelab: Basic Layouts in Compose Codelab
+# Codelab: Basic Layouts in Compose
 
 ## Aspectos destacados
 
